@@ -1,0 +1,16 @@
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:65:13:esperar	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:70:6:motorIzq_vel	0	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:75:6:motorDer_vel	0	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:81:6:motorIzq_dir	16	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:87:6:motorDer_dir	16	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:93:6:mover	16	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:99:6:detener	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:107:6:secuencia1_avance_rampa	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:124:6:secuencia2_giro_derecha	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:133:6:secuencia3_giro_izquierda	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:142:6:secuencia4_retroceso	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:155:6:secuencia5_curva	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:166:6:secuencia6_zigzag	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:296:6:Error_Handler	0	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:251:6:SystemClock_Config	88	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/Core/Src/main.c:182:5:main	8	static

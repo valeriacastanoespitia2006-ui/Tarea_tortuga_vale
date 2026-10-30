@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/build/Debug/cmake_install.cmake",
+		"C:/Users/USUARIO/Desktop/Embebidos/Tarea_tortuga_vale/Tortuga/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
